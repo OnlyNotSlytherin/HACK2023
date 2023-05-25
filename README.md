@@ -18,4 +18,4 @@
 Пароль: 1234
 Следовать указаниям на страничке
 
-Настроить keycloak следую описанию application.properties
+Настроить keycloak следуя описанию application.properties
